@@ -25,6 +25,7 @@ and here is our circuit(pinouts available in .ino file)
 
 # ExpressJS Section
 ExpressJS section handles incoming request from each circuit.
+In this project ExpressJS will provide API.
 
 # ReactJS Section
 ReactJS section will be available on front side of project and people will interact with UI to fetch datas or update any values on screen.
