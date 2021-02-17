@@ -1,0 +1,8 @@
+{
+  "short_name": "Smart Circuits",
+  "name": "Smart Home Circuits",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
