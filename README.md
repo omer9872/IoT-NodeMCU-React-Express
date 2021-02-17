@@ -30,7 +30,8 @@ In this project ExpressJS will provide API.
 
 # ReactJS Section
 ReactJS section will be available on front side of project and people will interact with UI to fetch datas or update any values on screen.
-Here are some photos from React App(Also each component boxed)
+
+Here are some photos from React App(Each component boxed)
 
 ![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe2.png)
 
