@@ -33,10 +33,18 @@ ReactJS section will be available on front side of project and people will inter
 
 Here are some photos from React App(Each component boxed)
 
-![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe2.png)
+- This is how main page looks when user request page:
 
-![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe3.png)
+  ![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe2.png)
 
-![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe4.png)
+- After user searched for a device id if device founds then it shows this components:
 
-![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe5.png)
+  ![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe3.png)
+
+- User can filter data dates with this bar.
+
+  ![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe4.png)
+
+- And user also can see datas with this plot.
+
+  ![alt text](https://github.com/omer9872/IoT-NodeMCU-React-Express/blob/main/photos/fe5.png)
